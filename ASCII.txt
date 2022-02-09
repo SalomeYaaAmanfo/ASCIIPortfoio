@@ -1,0 +1,19 @@
+
+
+            ___________
+           /           \
+          /             \
+         |   ===   ===   |
+        C|    O     O    |C
+         |               |
+         |               |
+          \        >    /
+           |           |
+           | MMMMMMMMM |
+           |   -----   |
+            \  MMMMM  /
+             \__MMM__/
+                MMM
+
+February 09, 2022
+L. Da Vinci
